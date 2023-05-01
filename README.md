@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaseyOchieng
-- 👀 I’m interested in js,python,SQL
-- 🌱 I’m currently learning 
+- 👀 I’m interested in js,python,SQL and ruby
+- 🌱 I’m currently learning rubby on rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
