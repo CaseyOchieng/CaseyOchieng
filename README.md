@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Casey Ochieng</h1>
-<h3 align="center">As a junior developer, I am constantly learning and improving my skills in the field of programming. I am passionate about coding and have dedicated countless hours to honing my craft and staying up-to-date with the latest technologies and best practices. 
+<h3 align="center"> a Web developer, I am constantly learning and improving my skills in the field of programming. I am passionate about coding and have dedicated countless hours to honing my craft and staying up-to-date with the latest technologies and best practices. 
 </h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ForgeTwoy?label=ForgeTwoy&logo=twitter&style=for-the-badge)
