@@ -39,6 +39,5 @@ A Web developer, I am constantly learning and improving my skills in the field o
 ###
 
 <br clear="both">
-![](https://visitcount.itsvg.in/api?id=CaseyOchieng&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ###
